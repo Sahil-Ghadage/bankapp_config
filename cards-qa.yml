@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to BankApp cards related QA APIs "
+  contactDetails:
+    name: "Cards QA user"
+    email: "cardsqa@dummy.com"
