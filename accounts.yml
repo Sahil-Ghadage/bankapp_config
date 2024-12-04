@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to BankApp accounts related docker APIs "
+  contactDetails:
+    name: "Default Profile"
+    email: "defaultAccounts@dummy.com"
