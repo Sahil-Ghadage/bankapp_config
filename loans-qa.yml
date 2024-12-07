@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to BankApp loans related QA APIs "
+  contactDetails:
+    name: "Loans QA"
+    email: "loansqa@dummy.com"
