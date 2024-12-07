@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to BsnkApp cards related local APIs "
+  contactDetails:
+    name: "Developer Developer"
+    email: "developer@dummy.com"
