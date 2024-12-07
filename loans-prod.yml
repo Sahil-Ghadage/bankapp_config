@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to BankApp loans related prod APIs "
+  contactDetails:
+    name: "Loans Production"
+    email: "loansprod@dummy.com"
