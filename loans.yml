@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to BankApp loans related local APIs "
+  contactDetails:
+    name: "loans default"
+    email: "loansdef@dummy.com"
